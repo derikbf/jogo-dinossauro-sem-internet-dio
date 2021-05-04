@@ -12,7 +12,7 @@ Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://
 
 Nesse projeto, o desafio foi recriar o jogo do Dinossauro sem internet, usando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
-<p align="center"><img src="./img/projeto.png" title="Jogo Dinossauro - DIO"></p>
+<p align="center"><img src="./img/projeto.gif" title="Jogo Dinossauro - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
